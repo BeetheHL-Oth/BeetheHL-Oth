@@ -1,10 +1,6 @@
 h1 align="center">Hi, I'm Brandon!</h1>
 <h3 align="center">Art Student who found love in creating and developing apps!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauld103&label=Profile%20views&color=0e75b6&style=flat" alt="PaulD103" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauld103" alt="PaulD103" /></a> </p>
-
 - 🔭 Click [here](https://brandonlawanto.vercel.app) to see my Projects and Portofolio! 
 
 - 🌱 I’m currently learning **Vue.js**
