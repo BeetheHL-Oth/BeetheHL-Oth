@@ -1,4 +1,4 @@
-h1 align="center">Hi, I'm Brandon!</h1>
+<h1> align="center">Hi, I'm Brandon!</h1>
 <h3 align="center">Art Student who found love in creating and developing apps!</h3>
 
 - 🔭 Click [here](https://brandonlawanto.vercel.app) to see my Projects and Portofolio! 
